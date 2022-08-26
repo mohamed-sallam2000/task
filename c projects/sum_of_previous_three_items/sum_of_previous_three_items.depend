@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661463112 source:c:\users\mohamed\desktop\git_hub_repo\task\c projects\sum_of_previous_three_items\main.c
+	<stdio.h>
+	<stdlib.h>
+
