@@ -11,6 +11,6 @@ sum+=arr[1]-'0';
 sum+=arr[2]-'0';
 sum+=arr[3]-'0';
 sum+=arr[4]-'0';
-    printf("Hello world! %d\n",sum);
+    printf(" %d\n",sum);
     return 0;
 }
