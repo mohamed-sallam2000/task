@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1662824492 source:c:\users\mohamed\desktop\git_hub_repo\task\c projects\students_marks_sum(easy_dynamic_memory)\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
